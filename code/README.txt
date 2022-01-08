@@ -10,7 +10,7 @@ All relevant code is in "networks.py".
 *chicagoruns() will produce the 45 random runs we used. Execution takes about one hour per run.
 
 
-We include these runs for berlin and chicago, as pickled files in the folder "figs/cities". Once the runs for berlin or chicago have been produced, the functions
+These runs for berlin and chicago will appear as pickled files in the folder "figs/cities". Once the runs for berlin or chicago have been produced, the functions
 - compt(city)
 - compr(city)
 - compl(city)
